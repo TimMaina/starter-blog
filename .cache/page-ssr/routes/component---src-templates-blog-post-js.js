@@ -884,12 +884,12 @@ const Bio = () => {
     className: "bio-avatar",
     layout: "fixed",
     formats: ["auto", "webp", "avif"],
-    src: "../images/profile-pic.png",
+    src: "../images/me.jpg",
     width: 50,
     height: 50,
     quality: 95,
     alt: "Profile picture",
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/1243370623.json */ "./.cache/caches/gatsby-plugin-image/1243370623.json")
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3564863333.json */ "./.cache/caches/gatsby-plugin-image/3564863333.json")
   }), (author === null || author === void 0 ? void 0 : author.name) && /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("p", null, "Written by ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("strong", null, author.name), " ", (author === null || author === void 0 ? void 0 : author.summary) || null, ` `, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1__.createElement("a", {
     href: `https://twitter.com/${(social === null || social === void 0 ? void 0 : social.twitter) || ``}`
   }, "You should follow them on Twitter")));
@@ -1116,13 +1116,13 @@ const pageQuery = "3085459379";
 
 /***/ }),
 
-/***/ "./.cache/caches/gatsby-plugin-image/1243370623.json":
+/***/ "./.cache/caches/gatsby-plugin-image/3564863333.json":
 /*!***********************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-image/1243370623.json ***!
+  !*** ./.cache/caches/gatsby-plugin-image/3564863333.json ***!
   \***********************************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"layout":"fixed","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/6dacf7b2c4db85249eda1745ffb570ed/e5610/profile-pic.png","srcSet":"/static/6dacf7b2c4db85249eda1745ffb570ed/e5610/profile-pic.png 50w,\\n/static/6dacf7b2c4db85249eda1745ffb570ed/e9b55/profile-pic.png 100w","sizes":"50px"},"sources":[{"srcSet":"/static/6dacf7b2c4db85249eda1745ffb570ed/d4bf4/profile-pic.avif 50w,\\n/static/6dacf7b2c4db85249eda1745ffb570ed/ee81f/profile-pic.avif 100w","type":"image/avif","sizes":"50px"},{"srcSet":"/static/6dacf7b2c4db85249eda1745ffb570ed/3faea/profile-pic.webp 50w,\\n/static/6dacf7b2c4db85249eda1745ffb570ed/6a679/profile-pic.webp 100w","type":"image/webp","sizes":"50px"}]},"width":50,"height":50}');
+module.exports = JSON.parse('{"layout":"fixed","backgroundColor":"#e8e8e8","images":{"fallback":{"src":"/static/c86e7f28a36f78b53239e9b7db4babbd/d24ee/me.jpg","srcSet":"/static/c86e7f28a36f78b53239e9b7db4babbd/d24ee/me.jpg 50w,\\n/static/c86e7f28a36f78b53239e9b7db4babbd/64618/me.jpg 100w","sizes":"50px"},"sources":[{"srcSet":"/static/c86e7f28a36f78b53239e9b7db4babbd/d4bf4/me.avif 50w,\\n/static/c86e7f28a36f78b53239e9b7db4babbd/ee81f/me.avif 100w","type":"image/avif","sizes":"50px"},{"srcSet":"/static/c86e7f28a36f78b53239e9b7db4babbd/3faea/me.webp 50w,\\n/static/c86e7f28a36f78b53239e9b7db4babbd/6a679/me.webp 100w","type":"image/webp","sizes":"50px"}]},"width":50,"height":50}');
 
 /***/ }),
 
@@ -1132,7 +1132,7 @@ module.exports = JSON.parse('{"layout":"fixed","backgroundColor":"#f8f8f8","imag
   \***********************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Gatsby Starter Blog","description":"A starter blog demonstrating what Gatsby can do.","social":{"twitter":"kylemathews"}}}}}');
+module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Tim Maina blog","description":"A starter blog demonstrating what Gatsby can do.","social":{"twitter":"kylemathews"}}}}}');
 
 /***/ }),
 
@@ -1142,7 +1142,7 @@ module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Gatsby St
   \***********************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"author":{"name":"Kyle Mathews","summary":"who lives and works in San Francisco building useful things."},"social":{"twitter":"kylemathews"}}}}}');
+module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"author":{"name":"Tim Maina","summary":"who lives and works in Nairobi building useful things."},"social":{"twitter":"kylemathews"}}}}}');
 
 /***/ })
 

@@ -192,7 +192,7 @@ Seo.propTypes = {
   \***********************************************/
 /***/ ((module) => {
 
-module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Gatsby Starter Blog","description":"A starter blog demonstrating what Gatsby can do.","social":{"twitter":"kylemathews"}}}}}');
+module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Tim Maina blog","description":"A starter blog demonstrating what Gatsby can do.","social":{"twitter":"kylemathews"}}}}}');
 
 /***/ })
 
